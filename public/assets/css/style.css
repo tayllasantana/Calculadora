@@ -1,0 +1,11 @@
+.header {
+    padding: 16px;
+    margin: 20px;
+    align-items: center;
+}
+
+.form {
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;;
+}
